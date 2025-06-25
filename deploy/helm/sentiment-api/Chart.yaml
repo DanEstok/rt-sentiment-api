@@ -1,0 +1,19 @@
+apiVersion: v2
+name: sentiment-api
+description: RT Sentiment Analysis API Helm Chart
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - sentiment
+  - api
+  - ml
+  - nlp
+  - fastapi
+home: https://github.com/your-org/rt-sentiment-api
+sources:
+  - https://github.com/your-org/rt-sentiment-api
+maintainers:
+  - name: Your Team
+    email: team@yourorg.com
+    url: https://yourorg.com

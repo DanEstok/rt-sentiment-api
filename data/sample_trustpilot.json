@@ -1,0 +1,25 @@
+[
+  {"text": "Exceptional service from start to finish. The team was professional, responsive, and delivered exactly what they promised. I couldn't be happier with the results and would definitely recommend them to anyone looking for quality work.", "label": 2},
+  {"text": "Outstanding experience! The product quality is top-notch and the customer support team went above and beyond to ensure I was satisfied. Fast shipping, great packaging, and the item works perfectly. Will definitely be a returning customer.", "label": 2},
+  {"text": "Absolutely fantastic! This company has restored my faith in online shopping. The ordering process was smooth, delivery was prompt, and the product exceeded my expectations. Five stars all the way!", "label": 2},
+  {"text": "I am thoroughly impressed with this purchase. The attention to detail is remarkable, and you can tell they really care about their customers. The product arrived exactly as described and works flawlessly.", "label": 2},
+  {"text": "Best decision I've made in a long time! The quality is superb, the price is fair, and the service is unmatched. I've already recommended this to several friends and family members.", "label": 2},
+  
+  {"text": "Completely disappointed with this purchase. The product arrived damaged, customer service was unhelpful, and the return process was a nightmare. Would not recommend to anyone. Save your money and shop elsewhere.", "label": 0},
+  {"text": "Terrible experience from beginning to end. The website was confusing, the product description was misleading, and what I received was nothing like what was advertised. Requesting a full refund.", "label": 0},
+  {"text": "Worst online shopping experience I've ever had. The item took weeks to arrive, was poorly packaged, and doesn't work properly. Customer service is non-existent. Avoid this company at all costs.", "label": 0},
+  {"text": "I regret this purchase immensely. The quality is abysmal, the price was too high for what you get, and the company doesn't stand behind their products. Looking for alternatives immediately.", "label": 0},
+  {"text": "Fraudulent company! They took my money and never delivered the product. Multiple attempts to contact them have been ignored. Filing a complaint with my credit card company.", "label": 0},
+  
+  {"text": "The product is decent for the price point. It's not the best quality I've seen, but it gets the job done. Shipping was reasonable and packaging was adequate. Would consider buying again if on sale.", "label": 1},
+  {"text": "Average experience overall. The product works as expected, nothing more, nothing less. Customer service was polite but not particularly helpful. It's an okay option if you need something basic.", "label": 1},
+  {"text": "Mixed feelings about this purchase. Some aspects are good, others could be improved. The price is fair, but I expected a bit more quality. It's functional but not impressive.", "label": 1},
+  {"text": "Standard product that meets basic requirements. The ordering process was straightforward, delivery was on time, and the item works. Nothing exceptional but no major complaints either.", "label": 1},
+  {"text": "It's an acceptable product for what I paid. The quality is average, the service was standard, and it arrived when expected. Would consider other options next time but not dissatisfied.", "label": 1},
+  
+  {"text": "Just placed my order and received confirmation. The website seems legitimate and the payment process was secure. Looking forward to receiving my item and will update my review accordingly.", "label": 1},
+  {"text": "Browsing their catalog and considering a purchase. The prices seem competitive and they have good selection. Has anyone had experience with their customer service?", "label": 1},
+  {"text": "Received shipping notification today. Tracking shows it's on the way. Will provide a full review once I've had a chance to test the product thoroughly.", "label": 1},
+  {"text": "Comparing this company with others in the market. They seem to have reasonable prices and decent reviews. Still deciding whether to make a purchase.", "label": 1},
+  {"text": "First time customer here. The ordering process was smooth and I received email confirmations promptly. Hoping the product quality matches the professional website presentation.", "label": 1}
+]

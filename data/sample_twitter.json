@@ -1,0 +1,25 @@
+[
+  {"text": "I absolutely love this new phone! The camera quality is amazing! 📸✨", "label": 2},
+  {"text": "Best purchase I've made this year. Highly recommend to everyone!", "label": 2},
+  {"text": "This product exceeded all my expectations. Five stars! ⭐⭐⭐⭐⭐", "label": 2},
+  {"text": "Incredible service and fast delivery. Will definitely buy again!", "label": 2},
+  {"text": "Outstanding quality and great value for money. Love it! ❤️", "label": 2},
+  
+  {"text": "Terrible product. Broke after just one day of use. Waste of money! 😡", "label": 0},
+  {"text": "Worst customer service ever. They don't respond to emails or calls.", "label": 0},
+  {"text": "Complete garbage. Don't buy this junk. Save your money!", "label": 0},
+  {"text": "Very disappointed. Product doesn't work as advertised. Returning it.", "label": 0},
+  {"text": "Poor quality materials. Feels cheap and flimsy. Not worth it.", "label": 0},
+  
+  {"text": "It's okay, nothing special. Does what it's supposed to do.", "label": 1},
+  {"text": "Average product. Not great, not terrible. Just mediocre.", "label": 1},
+  {"text": "Decent quality for the price. Could be better but acceptable.", "label": 1},
+  {"text": "It works fine. No complaints but nothing to get excited about.", "label": 1},
+  {"text": "Standard product. Meets basic expectations but nothing more.", "label": 1},
+  
+  {"text": "Just received my order. Packaging looks good so far.", "label": 1},
+  {"text": "The delivery was on time. Haven't tested the product yet.", "label": 1},
+  {"text": "Ordered this yesterday. Hope it arrives soon! 🤞", "label": 1},
+  {"text": "Thinking about buying this. Anyone have experience with it?", "label": 1},
+  {"text": "Saw this on sale. Might be worth checking out.", "label": 1}
+]
