@@ -1,6 +1,5 @@
 # RT Sentiment API
 
-[![CI/CD Pipeline](https://github.com/DanEstok/rt-sentiment-api/actions/workflows/ci.yml/badge.svg)](https://github.com/DanEstok/rt-sentiment-api/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
