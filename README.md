@@ -1,6 +1,6 @@
 # RT Sentiment API
 
-[![CI/CD Pipeline](https://github.com/your-org/rt-sentiment-api/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/rt-sentiment-api/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/DanEstok/rt-sentiment-api/actions/workflows/ci.yml/badge.svg)](https://github.com/DanEstok/rt-sentiment-api/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
@@ -24,7 +24,7 @@ A high-performance, real-time sentiment analysis API built with FastAPI and opti
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/rt-sentiment-api.git
+git clone https://github.com/DanEstok/rt-sentiment-api.git
 cd rt-sentiment-api
 
 # Install dependencies
@@ -396,7 +396,7 @@ We welcome contributions! Please see our [Contributing Guide](docs/contributing.
 
 ### Reporting Security Issues
 
-Please report security vulnerabilities to security@yourorg.com. Do not open public issues for security concerns.
+Please report security vulnerabilities to support@sparktechrepair.com. Do not open public issues for security concerns.
 
 ### Security Features
 
@@ -420,9 +420,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: Check the [docs](docs/) directory
-- **Issues**: [GitHub Issues](https://github.com/your-org/rt-sentiment-api/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/rt-sentiment-api/discussions)
-- **Email**: team@yourorg.com
+- **Issues**: [GitHub Issues](https://github.com/DanEstok/rt-sentiment-api/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/DanEstok/rt-sentiment-api/discussions)
+- **Email**: support@sparktechrepair.com
 
 ---
 
